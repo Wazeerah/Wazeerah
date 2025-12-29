@@ -11,7 +11,7 @@ I specialize in:
 
 Language: Python, SQL, JavaScript, Java 
 
-Database: PostgreSQL, Snowflake, Pantheon
+Database: Dune, PostgreSQL, Snowflake, Pantheon
 
 ### 📚 Projects : 
 
