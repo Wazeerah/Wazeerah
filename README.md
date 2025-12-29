@@ -15,7 +15,7 @@ Database: PostgreSQL, Snowflake, Pantheon
 
 ### 📚 Projects : 
 
-Checkout my [projects](https://github.com/Wazeerah?tab=repositories)
+Checkout my [projects](https://github.com/Wazeerah?tab=repositories) and my [Dune Analytics](https://dune.com/workspace/u/wazeerah/library) portfolio for more information on what I am currently working on. 
 <!--
 **Wazeerah/Wazeerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
