@@ -10,6 +10,7 @@ I specialize in:
 ### 🛠️ Tools
 
 Language: Python, SQL, JavaScript, Java 
+
 Database: PostgreSQL, Snowflake, Pantheon
 
 ### 📚 Projects : 
