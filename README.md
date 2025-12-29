@@ -1,5 +1,20 @@
-## Hi there 👋
+## Hi there 🙋🏽‍♀️
 
+I am Wazeerah. I am Reconciliation Associate in Crypto Ops looking to pivot into Data Analysis! 👩🏽‍💻
+
+I specialize in: 
+
+- Querying data using SQL.
+- Data reporting using Google Sheets and Excel 👀
+
+### 🛠️ Tools
+
+Language: Python, SQL, JavaScript, Java 
+Database: PostgreSQL, Snowflake, Pantheon
+
+### 📚 Projects : 
+
+Checkout my [projects](https://github.com/Wazeerah?tab=repositories)
 <!--
 **Wazeerah/Wazeerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
